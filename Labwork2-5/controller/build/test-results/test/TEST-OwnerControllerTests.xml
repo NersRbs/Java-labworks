@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OwnerControllerTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-16T10:34:57" hostname="LAPTOP-6JNATHTL" time="1.862">
+  <properties/>
+  <testcase name="addTest()" classname="OwnerControllerTests" time="1.83"/>
+  <testcase name="getOwnerTest()" classname="OwnerControllerTests" time="0.007"/>
+  <testcase name="getOwnersTest()" classname="OwnerControllerTests" time="0.007"/>
+  <testcase name="deleteTest()" classname="OwnerControllerTests" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
